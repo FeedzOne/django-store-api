@@ -1,0 +1,17 @@
+# Django #
+*.log
+*.pot
+*.pyc
+**/__pycache__
+
+# media files 
+media/Products/Images/*
+
+## virtual environment
+venv
+
+## visual studio code settings
+.vscode
+
+### ignore sqlite3
+db.sqlite3
